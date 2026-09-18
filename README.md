@@ -129,6 +129,6 @@ The objective of this project is to demonstrate how supervised machine learning 
 
 ## Author
 
-Yash Jaiswal
+Nitesh Kumar Jaiswal
 
 Computer Science Engineering Student
